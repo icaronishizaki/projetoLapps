@@ -13,6 +13,7 @@ Prof. Allan Lincoln Rodrigues Siriani
 
 
 Objetivo do projeto
+-
 O projeto tem como objeto principal a criação de um aplicativo, para facilitar a vida cotidiana de mode geral,
 ser de alguma forma "útil". E como conseguencia cumprir as horas de estagio obrigatoria para a formação, no curso
 de Big Data no agronegocio fornecido pela Fatec - Shunji Nishimura.
