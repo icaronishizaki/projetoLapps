@@ -6,6 +6,7 @@ Um aplicativo para o estagio no laboratório Lapps.
 Equipe de desenvolvimento
 -
 Icaro Yuri Nishizaki - icaroyurinishizaki@gmail.com
+Fernanda Tiemi Nishizaki Torres
 
 Orientador/ Supervisor do estagio
 -
